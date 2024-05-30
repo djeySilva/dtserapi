@@ -1,0 +1,6 @@
+host: bs06utxbmupkjlfvqbqk-mysql.services.clever-cloud.com
+Database: bs06utxbmupkjlfvqbqk
+user: udbnnsmik7cvgvto
+pass: N6tqZGb2mrsO4O7tD1n5
+Port: 3306
+conURL: mysql://udbnnsmik7cvgvto:N6tqZGb2mrsO4O7tD1n5@bs06utxbmupkjlfvqbqk-mysql.services.clever-cloud.com:3306/bs06utxbmupkjlfvqbqk
