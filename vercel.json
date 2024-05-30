@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-{
-    "version": 2,
+{  "version": 2,
     "builds": [
         {
             "src": "./app.js",
@@ -14,6 +12,4 @@
         }
     ]
 }
-=======
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
->>>>>>> 810ea6358e56a2dab2ffb3d5fccdb7045c3398c8
+
