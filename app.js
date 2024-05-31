@@ -4,7 +4,9 @@ const app = Express();
 const bodyParser = require('body-parser')
 const con = require('./db')
 
-
+app.get('/', (req, res)=>{
+    res.send('Oi')
+})
 
 app.use(cors())
 app.use(bodyParser.json());
